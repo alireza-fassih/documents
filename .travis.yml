@@ -1,8 +1,0 @@
-language: python
-
-install:
-  - pip install mkdocs
-  - pip install mkdocs-material
-# command to run tests
-script:
-  - mkdocs gh-deploy
