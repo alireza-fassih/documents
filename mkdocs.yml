@@ -1,7 +1,5 @@
 site_name: 'مستندات'
 
-
-
 theme:
   name: material
   direction: 'rtl'
@@ -9,3 +7,7 @@ theme:
 
 extra_css:
   - 'stylesheets/extra.css'
+
+
+markdown_extensions:
+  - codehilite
