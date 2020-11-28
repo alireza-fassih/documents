@@ -4,11 +4,13 @@
 
 برای ایجاد یک pod 
 
+
 ```bash
 podman pod create --name POD_NAME
 ```
 
 مشاهده لیست podها
+
 
 ‍‍‍```bash
 podman pod list
